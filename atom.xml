@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>九洲Blog</title>
+  <title>九洲的博客</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://longeblog.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2021-08-24T09:14:34.242Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://longeblog.github.io/"/>
+  <updated>2021-08-24T09:28:05.512Z</updated>
+  <id>https://longeblog.github.io/</id>
   
   <author>
     <name>九洲</name>
@@ -17,15 +17,17 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>ipc$</title>
-    <link href="http://example.com/2021/08/24/ipc/"/>
-    <id>http://example.com/2021/08/24/ipc/</id>
+    <title>Windows ipc$</title>
+    <link href="https://longeblog.github.io/2021/08/24/ipc/"/>
+    <id>https://longeblog.github.io/2021/08/24/ipc/</id>
     <published>2021-08-24T09:14:34.000Z</published>
-    <updated>2021-08-24T09:14:34.242Z</updated>
+    <updated>2021-08-24T09:28:05.512Z</updated>
     
     
     
     
+    
+    <category term="_posts" scheme="https://longeblog.github.io/tags/posts/"/>
     
   </entry>
   
